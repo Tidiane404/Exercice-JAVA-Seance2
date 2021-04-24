@@ -14,7 +14,6 @@ public class Client implements IAffiche
         return nombreDeComptes;
     }
 
-    
     public Compte[] getTableCompte() {
         return tableCompte;
     }
